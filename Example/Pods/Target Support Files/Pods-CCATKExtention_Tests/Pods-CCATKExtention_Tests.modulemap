@@ -1,0 +1,6 @@
+framework module Pods_CCATKExtention_Tests {
+  umbrella header "Pods-CCATKExtention_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

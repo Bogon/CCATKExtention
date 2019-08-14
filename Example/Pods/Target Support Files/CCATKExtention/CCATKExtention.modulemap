@@ -1,0 +1,6 @@
+framework module CCATKExtention {
+  umbrella header "CCATKExtention-umbrella.h"
+
+  export *
+  module * { export * }
+}

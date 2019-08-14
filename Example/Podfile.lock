@@ -1,0 +1,16 @@
+PODS:
+  - CCATKExtention (0.1.0)
+
+DEPENDENCIES:
+  - CCATKExtention (from `../`)
+
+EXTERNAL SOURCES:
+  CCATKExtention:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CCATKExtention: 61cb92554669314e9f7e251e82af7e53145c42d0
+
+PODFILE CHECKSUM: 8b5f4ebdf4c331a873fd25ed0e463babd548e2b3
+
+COCOAPODS: 1.7.4

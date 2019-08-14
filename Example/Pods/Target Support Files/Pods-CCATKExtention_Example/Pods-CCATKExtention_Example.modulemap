@@ -1,0 +1,6 @@
+framework module Pods_CCATKExtention_Example {
+  umbrella header "Pods-CCATKExtention_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'CCATKExtention_Example' do
+  pod 'CCATKExtention', :path => '../'
+
+  target 'CCATKExtention_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
